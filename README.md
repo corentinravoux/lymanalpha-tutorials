@@ -1,2 +1,2 @@
 # lymanalpha-tutorials
-Contains the tutorials I gave on Lyman-lapha forest cosmology
+Contains the tutorials I gave on Lyman-alpha forest cosmology
